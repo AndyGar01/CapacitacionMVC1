@@ -1,0 +1,47 @@
+commit a181ddc087e135e6d62a1ad910fa8ffd0b5b7db0
+Author: AndyGar01 <agarcial32@miumg.edu.gt>
+Date:   Thu Sep 3 01:31:39 2026 -0600
+
+    base de datos
+
+commit d2664fe2b611df711046f11f43cb78f180c967d1
+Author: AndyGar01 <agarcial32@miumg.edu.gt>
+Date:   Thu Sep 3 01:28:35 2026 -0600
+
+    Ejecutor programa
+
+commit 8a9cafbab6164a980ee99173ea80432e2b90fa42
+Author: AndyGar01 <agarcial32@miumg.edu.gt>
+Date:   Thu Sep 3 00:55:25 2026 -0600
+
+    Programa pra ejecucion
+
+commit a8efb82b9b72ddf067afecf63eb0906703b5c0c2
+Author: AndyGar01 <agarcial32@miumg.edu.gt>
+Date:   Thu Sep 3 00:53:23 2026 -0600
+
+    Capa modelo
+
+commit e22ab23ed4ce6011d22c8e83b7915c7cb64585ff
+Author: AndyGar01 <agarcial32@miumg.edu.gt>
+Date:   Thu Sep 3 00:51:27 2026 -0600
+
+    Capa controlador
+
+commit 9774ac165be2b30c17a8b32647a8bb217fab3f1f
+Author: AndyGar01 <agarcial32@miumg.edu.gt>
+Date:   Thu Sep 3 00:49:26 2026 -0600
+
+    Capa Vista
+
+commit 5552c9735a0ba7aaf1024c8bc8c2b3928e35bc17
+Author: AndyGar01 <agarcial32@miumg.edu.gt>
+Date:   Thu Sep 3 00:47:56 2026 -0600
+
+    Carpetas principales
+
+commit ad25808d813a1a45caa2f6a9c1472974d6ab2a64
+Author: AndyGar01 <156693533+AndyGar01@users.noreply.github.com>
+Date:   Thu Sep 3 00:46:16 2026 -0600
+
+    Initial commit
